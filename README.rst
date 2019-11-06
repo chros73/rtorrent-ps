@@ -111,8 +111,9 @@ Installation for Arch Linux users
 You may also install rtorrent-ps-ch through the “Arch User Repository” (AUR) PKGBUILDs maintained by @QDesjardin. These use a standard Arch build process, but include the pyroscope patches.
 
 There is one package for libtorrent-ps-ch, and one for rtorrent-ps-ch, and both take their dependencies from the normal OS packages:
-- https://aur.archlinux.org/packages/libtorrent-ps-ch/
-- https://aur.archlinux.org/packages/rtorrent-ps-ch/
+
+-  https://aur.archlinux.org/packages/libtorrent-ps-ch/
+-  https://aur.archlinux.org/packages/rtorrent-ps-ch/
 
 Before building binaries or packages yourself, install these packages on top of the base and base-devel groups (list is user-provided, report any problems):
 
